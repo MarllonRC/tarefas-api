@@ -1,0 +1,4 @@
+br\com\marllon\tarefas\model\Tarefa.class
+br\com\marllon\tarefas\controller\TarefaController.class
+br\com\marllon\tarefas\repository\TarefaRepository.class
+br\com\marllon\tarefas\TarefasApiApplication.class
